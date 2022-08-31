@@ -1,0 +1,1 @@
+print ("Hello labb 1)
